@@ -1,0 +1,2 @@
+/Users/amorales/Documents/UN/DS/GVoice/build/osx/CMakeFiles/ALL_BUILD.dir
+/Users/amorales/Documents/UN/DS/GVoice/build/osx/CMakeFiles/ZERO_CHECK.dir

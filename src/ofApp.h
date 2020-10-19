@@ -1,10 +1,15 @@
 #pragma once
 
 #include "ofMain.h"
+#include "UI/UIController.h"
 
 class ofApp : public ofBaseApp{
-
+    private:
+    UIController UI;
+    
+    
 	public:
+        
 		void setup();
 		void update();
 		void draw();
